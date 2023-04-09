@@ -33,7 +33,8 @@
     "fastify-plugin": "^4.0.0",
     "graphql": "^16.6.0",
     "graphql-depth-limit": "^1.1.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@types/graphql-depth-limit": "^1.1.3",
